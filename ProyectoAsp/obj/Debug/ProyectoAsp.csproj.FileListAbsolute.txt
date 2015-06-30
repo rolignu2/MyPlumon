@@ -1,0 +1,83 @@
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.dll
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.pdb
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\bin\MySql.Data.dll
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+C:\Users\rolandoantonio\Desktop\recursos asp\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.dll
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.pdb
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\bin\MySql.Data.dll
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+F:\wildsof inc programas\proyecto asp copia n4\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.dll
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.pdb
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\bin\MySql.Data.dll
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+C:\Users\rolandoantonio\Desktop\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\ProyectoAsp.pdb
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\MySql.Data.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\Microsoft.CSharp.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Configuration.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Data.DataSetExtensions.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Data.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Drawing.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.EnterpriseServices.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.ApplicationServices.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.DynamicData.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.Entity.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.Extensions.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Web.Services.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Windows.Forms.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Xml.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\bin\System.Xml.Linq.dll
+C:\Users\rolandoantonio\documents\visual studio 2010\Projects\ProyectoAsp\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\ProyectoAsp.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\ProyectoAsp.pdb
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\Microsoft.CSharp.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\MySql.Data.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Configuration.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Data.DataSetExtensions.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Data.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Drawing.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.EnterpriseServices.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.ApplicationServices.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.DynamicData.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Entity.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Extensions.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Services.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Windows.Forms.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Xml.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Xml.Linq.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+F:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+F:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\ProyectoAsp.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\ProyectoAsp.pdb
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\Microsoft.CSharp.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Configuration.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Data.DataSetExtensions.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Data.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Drawing.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.EnterpriseServices.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.ApplicationServices.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.DynamicData.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Entity.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Extensions.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Web.Services.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Windows.Forms.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Xml.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\bin\System.Xml.Linq.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.csprojResolveAssemblyReference.cache
+E:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.dll
+E:\PHP proyectos\MyPlumon\ProyectoAsp\obj\Debug\ProyectoAsp.pdb
